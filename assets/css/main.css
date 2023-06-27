@@ -434,7 +434,7 @@ input, select, textarea {
 			transform-origin: 50% 50%;
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-            font-family: Inter, sans-serif;
+            font-family: Inter, sans-serif
 			/*font-family: FontAwesome;*/
 			font-style: normal;
 			font-weight: normal;
@@ -505,7 +505,7 @@ input, select, textarea {
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
-		color: #39454b;
+        color: #39454b;
 		letter-spacing: 0.025em;
 	}
 

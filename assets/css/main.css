@@ -434,7 +434,8 @@ input, select, textarea {
 			transform-origin: 50% 50%;
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+            font-family: Inter, sans-serif;
+			/*font-family: FontAwesome;*/
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -589,6 +590,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out;
 		color: #98c593;
+        
 	}
 
 	sub {

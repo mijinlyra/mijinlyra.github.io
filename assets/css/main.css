@@ -592,6 +592,9 @@ input, select, textarea {
 		color: #98c593;
         
 	}
+    a:hover {
+        color: #cf74f5; /*#f574a6;*/
+    }
 
 	sub {
 		position: relative;
